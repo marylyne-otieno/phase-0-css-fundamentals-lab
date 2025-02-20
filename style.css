@@ -2,4 +2,70 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+
+
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+
+
+
+}
+
+nav a {
+  padding: 0 10px;
+  background-color: grey;
+
+}
+
+#featured-property {
+  text-align: center;
+
+
+
+}
+
+#featured-propert {
+  float: right;
+  text-align: center;
+  margin: 800px;
+  width: 800px;
+}
+
+img {
+  width: 800px;
+
+}
+
+p {
+  text-align: center;
+
+}
+
+#details {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  background: red;
+
+}
+
+.para-graph {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.para-book {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
 }
